@@ -15,8 +15,7 @@
 <br>
 
 I am Md. Imamul Mursalin Sujoy. <br>
-I have completed a Bachelor's Degree in Computer Science & Engineering from <a href="https://www.bracu.ac.bd/">BRAC University</a>. <br>
-Alongside assisting students with the fundamentals of coding, I have developed my knowledge in Machine Learning, Deep Learning, and Optimization Algorithms. Additionally, I have strengthened my foundation in cross-platform programming skills. Beyond academics, I enjoy crafting and watching movies of different genres. I am committed to continuous learning and excited to connect with industry professionals to explore opportunities in tech innovation, leveraging my development talents with a focus on collaboration, communication, passion, and creativity.
+I have completed a Bachelor's Degree in Computer Science & Engineering from <a href="https://www.bracu.ac.bd/">BRAC University</a>. Alongside assisting students with the fundamentals of coding, I have developed my knowledge in Machine Learning, Deep Learning, and Optimization Algorithms. Additionally, I have strengthened my foundation in cross-platform programming skills. Beyond academics, I enjoy crafting and watching movies of different genres. I am committed to continuous learning and excited to connect with industry professionals to explore opportunities in tech innovation, leveraging my development talents with a focus on collaboration, communication, passion, and creativity.
 
 [My Portfolio](https://immusu.github.io/imamulmursalinsujoy.github.io/)
 
